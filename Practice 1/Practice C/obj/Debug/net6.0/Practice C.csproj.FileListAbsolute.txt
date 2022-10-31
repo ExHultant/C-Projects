@@ -1,0 +1,15 @@
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\bin\Debug\net6.0\Practice C.exe
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\bin\Debug\net6.0\Practice C.deps.json
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\bin\Debug\net6.0\Practice C.runtimeconfig.json
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\bin\Debug\net6.0\Practice C.dll
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\bin\Debug\net6.0\Practice C.pdb
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\obj\Debug\net6.0\Practice C.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\obj\Debug\net6.0\Practice C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\obj\Debug\net6.0\Practice C.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\obj\Debug\net6.0\Practice C.AssemblyInfo.cs
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\obj\Debug\net6.0\Practice C.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\obj\Debug\net6.0\Practice C.dll
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\obj\Debug\net6.0\refint\Practice C.dll
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\obj\Debug\net6.0\Practice C.pdb
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\obj\Debug\net6.0\Practice C.genruntimeconfig.cache
+C:\Users\Ricardo\Desktop\Practice 1 C#\Practice C\Practice C\obj\Debug\net6.0\ref\Practice C.dll

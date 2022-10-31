@@ -1,0 +1,10 @@
+C:\Users\ALUMNO\Desktop\Practice #1\Form number 1 practice class\Form number 1 practice class\bin\Debug\Form number 1 practice class.exe.config
+C:\Users\ALUMNO\Desktop\Practice #1\Form number 1 practice class\Form number 1 practice class\bin\Debug\Form number 1 practice class.exe
+C:\Users\ALUMNO\Desktop\Practice #1\Form number 1 practice class\Form number 1 practice class\bin\Debug\Form number 1 practice class.pdb
+C:\Users\ALUMNO\Desktop\Practice #1\Form number 1 practice class\Form number 1 practice class\obj\Debug\Form number 1 practice class.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\Practice #1\Form number 1 practice class\Form number 1 practice class\obj\Debug\Form_number_1_practice_class.Form1.resources
+C:\Users\ALUMNO\Desktop\Practice #1\Form number 1 practice class\Form number 1 practice class\obj\Debug\Form_number_1_practice_class.Properties.Resources.resources
+C:\Users\ALUMNO\Desktop\Practice #1\Form number 1 practice class\Form number 1 practice class\obj\Debug\Form number 1 practice class.csproj.GenerateResource.cache
+C:\Users\ALUMNO\Desktop\Practice #1\Form number 1 practice class\Form number 1 practice class\obj\Debug\Form number 1 practice class.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\Practice #1\Form number 1 practice class\Form number 1 practice class\obj\Debug\Form number 1 practice class.exe
+C:\Users\ALUMNO\Desktop\Practice #1\Form number 1 practice class\Form number 1 practice class\obj\Debug\Form number 1 practice class.pdb

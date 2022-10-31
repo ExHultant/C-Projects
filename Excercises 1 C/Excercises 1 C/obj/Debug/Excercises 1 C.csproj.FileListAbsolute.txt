@@ -1,0 +1,8 @@
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Excercises 1 C\Excercises 1 C\bin\Debug\Excercises 1 C.exe.config
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Excercises 1 C\Excercises 1 C\bin\Debug\Excercises 1 C.exe
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Excercises 1 C\Excercises 1 C\bin\Debug\Excercises 1 C.pdb
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Excercises 1 C\Excercises 1 C\obj\Debug\Excercises 1 C.csproj.AssemblyReference.cache
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Excercises 1 C\Excercises 1 C\obj\Debug\Excercises 1 C.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Excercises 1 C\Excercises 1 C\obj\Debug\Excercises 1 C.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Excercises 1 C\Excercises 1 C\obj\Debug\Excercises 1 C.exe
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Excercises 1 C\Excercises 1 C\obj\Debug\Excercises 1 C.pdb

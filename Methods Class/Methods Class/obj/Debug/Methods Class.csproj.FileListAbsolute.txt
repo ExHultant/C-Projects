@@ -1,0 +1,8 @@
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Methods Class\Methods Class\bin\Debug\Methods Class.exe.config
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Methods Class\Methods Class\bin\Debug\Methods Class.exe
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Methods Class\Methods Class\bin\Debug\Methods Class.pdb
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Methods Class\Methods Class\obj\Debug\Methods Class.csproj.AssemblyReference.cache
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Methods Class\Methods Class\obj\Debug\Methods Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Methods Class\Methods Class\obj\Debug\Methods Class.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Methods Class\Methods Class\obj\Debug\Methods Class.exe
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\Methods Class\Methods Class\obj\Debug\Methods Class.pdb

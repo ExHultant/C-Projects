@@ -1,0 +1,8 @@
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\App Restaurant hallacas\App Restaurant hallacas\bin\Debug\App Restaurant hallacas.exe.config
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\App Restaurant hallacas\App Restaurant hallacas\bin\Debug\App Restaurant hallacas.exe
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\App Restaurant hallacas\App Restaurant hallacas\bin\Debug\App Restaurant hallacas.pdb
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\App Restaurant hallacas\App Restaurant hallacas\obj\Debug\App Restaurant hallacas.csproj.AssemblyReference.cache
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\App Restaurant hallacas\App Restaurant hallacas\obj\Debug\App Restaurant hallacas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\App Restaurant hallacas\App Restaurant hallacas\obj\Debug\App Restaurant hallacas.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\App Restaurant hallacas\App Restaurant hallacas\obj\Debug\App Restaurant hallacas.exe
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\App Restaurant hallacas\App Restaurant hallacas\obj\Debug\App Restaurant hallacas.pdb

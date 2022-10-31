@@ -1,0 +1,8 @@
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\ConsoleAppFactorial.csproj.AssemblyReference.cache
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\ConsoleAppFactorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\ConsoleAppFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\ConsoleAppFactorial\ConsoleAppFactorial\bin\Debug\ConsoleAppFactorial.exe.config
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\ConsoleAppFactorial\ConsoleAppFactorial\bin\Debug\ConsoleAppFactorial.exe
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\ConsoleAppFactorial\ConsoleAppFactorial\bin\Debug\ConsoleAppFactorial.pdb
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\ConsoleAppFactorial.exe
+C:\Users\Ricardo\OneDrive\Documentos\TRABAJOS UNIVERSIDAD IUTEPAL\2 Semestre\Lenguaje de Programacion\Practice  C#\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\ConsoleAppFactorial.pdb
