@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSingreso" targetNamespace="http://tempuri.org/DSingreso.xsd" xmlns:mstns="http://tempuri.org/DSingreso.xsd" xmlns="http://tempuri.org/DSingreso.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSingreso" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSingreso" msprop:Generator_DataSetName="DSingreso">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Usuario" msprop:Generator_TableClassName="UsuarioDataTable" msprop:Generator_TableVarName="tableUsuario" msprop:Generator_TablePropName="Usuario" msprop:Generator_RowDeletingName="UsuarioRowDeleting" msprop:Generator_RowChangingName="UsuarioRowChanging" msprop:Generator_RowEvHandlerName="UsuarioRowChangeEventHandler" msprop:Generator_RowDeletedName="UsuarioRowDeleted" msprop:Generator_UserTableName="Usuario" msprop:Generator_RowChangedName="UsuarioRowChanged" msprop:Generator_RowEvArgName="UsuarioRowChangeEvent" msprop:Generator_RowClassName="UsuarioRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Usuario" msprop:Generator_ColumnVarNameInTable="columnUsuario" msprop:Generator_ColumnPropNameInRow="Usuario" msprop:Generator_ColumnPropNameInTable="UsuarioColumn" msprop:Generator_UserColumnName="Usuario">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Contraseña" msprop:Generator_ColumnVarNameInTable="columnContraseña" msprop:Generator_ColumnPropNameInRow="Contraseña" msprop:Generator_ColumnPropNameInTable="ContraseñaColumn" msprop:Generator_UserColumnName="Contraseña">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nivel" msprop:Generator_ColumnVarNameInTable="columnNivel" msprop:Generator_ColumnPropNameInRow="Nivel" msprop:Generator_ColumnPropNameInTable="NivelColumn" msprop:Generator_UserColumnName="Nivel" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Usuario" />
+      <xs:field xpath="mstns:Usuario" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
